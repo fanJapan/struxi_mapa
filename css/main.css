@@ -1,0 +1,82 @@
+body, html {
+     margin: 0;
+  }
+  
+.container
+{
+
+        position: absolute;
+        text-align: center;
+        color: yellow;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+ 
+}
+
+
+.bg {
+   
+
+    position: absolute;
+    text-align: center;
+    top :0;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    align-content: center;
+  }
+
+
+svg{
+   
+    z-index: 1000;
+    position: absolute;
+    text-align: center;
+    top :0;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    width:1570px;
+    height:1080px;
+   
+}
+
+.labels {
+    z-index: 2000;
+    position: absolute;
+    text-align: center;
+    top :0;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    align-content: center;
+
+}
+
+/*
+ .loading-bg {
+        margin:80px 80px;
+        width:600px;
+        height:40px;
+        background:#eee;
+        border:1px solid #ddd;
+        overflow:hidden;
+    }
+    .loading-bg .progress {
+        width:0;
+        height:100%;
+        background:#EC185D;
+        overflow:hidden
+    }
+    */

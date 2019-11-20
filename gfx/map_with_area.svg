@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1527 1080" enable-background="new 0 0 1527 1080" xml:space="preserve">
+<g id="Layer_1" display="none">
+	<image display="inline" overflow="visible" width="1527" height="1080" xlink:href="map_with_area.jpg" >
+	</image>
+</g>
+<g id="areas">
+	<polygon id="area1_x5F_chmielowice" fill="#AFCA0B" points="738,490.5 870.5,540 708,725 545.5,680 	"/>
+	<polygon id="area2_x5F_chmielowice2" fill="#8A8A8A" points="1014.5,592.5 873.9,541.2 711.6,725.9 890,769 	"/>
+	<polygon id="area3_x5F_parterowka" fill="#538CA8" points="777,494.5 806.5,505 943.5,358 911.5,350 	"/>
+	<polygon id="area4_x5F_dowceniemieszkania" fill="#C52C38" points="945.5,359.8 971.8,368 974.3,373.5 974.3,381.3 855.3,511.3 
+		847,517 842,518.5 837.3,518.5 809,506 	"/>
+	
+		<polygon id="area5_x5F_poddebami" fill="#A87638" points="280.2,253.5 310.5,266 424.5,198.5 413,196.3 412.8,194.5 408.7,190 403.3,185.8 394,188.5 
+			382,195 		"/>
+	</g>
+</svg>
